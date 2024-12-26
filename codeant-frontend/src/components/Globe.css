@@ -1,0 +1,14 @@
+.globe {
+  background-color: #f0f0f0;
+  padding: 80px 20px;
+}
+
+.globe h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.globe-img {
+  max-width: 100%;
+  height: auto;
+}

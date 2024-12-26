@@ -1,0 +1,15 @@
+.cta {
+    text-align: center;
+    background-color: #4A4A87;
+    color: white;
+    padding: 50px 20px;
+  }
+  
+  .cta button {
+    padding: 10px 20px;
+    background-color: #FFA500;
+    border: none;
+    font-size: 1rem;
+    color: white;
+    cursor: pointer;
+  }
