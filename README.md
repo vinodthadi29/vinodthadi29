@@ -1,3 +1,4 @@
+![logo](https://github.com/vinodthadi29/vinodthadi29/blob/master/Github%20Banner.png)
 <!--
 Vinod Thadi | Professional Interactive GitHub Portfolio README
 Last Updated: 2025-09-02
